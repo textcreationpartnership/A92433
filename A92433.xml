@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of many hundreds of wel-affected people in the county of Hertford, or, the case rightly stated, between William Hickman late treasurer of the county aforesaid John Woodward, and others their agents and emissaries, and the honest partie of that countie who petitioning against their evil practices, were summoned before the honorable commissioners appointed by order of parliament. Who upon examination, finding them as corrupt in their trust, as uncivil in  their carriages towards the people; honorably turned them out of their places: the county desiring Capt. Rock of Warford (an assertor of his countreys' good) to nominate another treasurer that vvas an honest responsible man, vvhich (vvith approbation of the honorable commissioners) was happily effected, to the great joy of all the vvhole county. With a caveat to all neighbor counties to be carefull, that they be not abused in the same kinde.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92433</idno><idno type="EEBO-CITATION">99895801</idno>
+  <idno type="VID">153519</idno>
+  <idno type="EEBO-PROQUEST">2240917525</idno>
+  
+            <idno type="STC">Wing R992A</idno>
+            <idno type="STC">ESTC R200600</idno>
+            <idno type="PROQUEST">99895801</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895801e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92433)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153519)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2368:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of many hundreds of wel-affected people in the county of Hertford, or, the case rightly stated, between William Hickman late treasurer of the county aforesaid John Woodward, and others their agents and emissaries, and the honest partie of that countie who petitioning against their evil practices, were summoned before the honorable commissioners appointed by order of parliament. Who upon examination, finding them as corrupt in their trust, as uncivil in  their carriages towards the people; honorably turned them out of their places: the county desiring Capt. Rock of Warford (an assertor of his countreys' good) to nominate another treasurer that vvas an honest responsible man, vvhich (vvith approbation of the honorable commissioners) was happily effected, to the great joy of all the vvhole county. With a caveat to all neighbor counties to be carefull, that they be not abused in the same kinde.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>DFo copy, reel 2368, is cropped affecting the text.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Misconduct in office --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Hertfordshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153519:1"/>
+            <pb facs="tcp:153519:1"/>
+            <p>A REMONSTRANC<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> OF Many hundreds of Wel-affected People in the county of Hertford, OR, The Case rightly stated, BETWEEN William Hickman late Treasurer of the county afore<g ref="char:EOLhyphen"/>said, <hi>John Woodward,</hi> and others their Agents and Emissaries and the Honest partie of that Countie; who Petitioning against their evil practises, were summoned before the Honorable Commissioners appointed by Order of Parliament.</p>
+            <p>Who upon examination, finding them as corrupt in their trus<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> as uncivil in their carriages towards the people; honorably turne<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> them out of their places: the County desiring Capt. <hi>Rock</hi> of <hi>Watfor<gap reason="illegible" resp="#murp" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> (an Assertor of his Countreys good) to nominate another Treasur<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> that vvas an honest responsible man, vvhich (vvith approbation of <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Honorable Commissioners) was happily effected, to the great joy of the vvhole County.</p>
+            <p>With a Caveat to all neighbor Counties to be care<g ref="char:EOLhyphen"/>full, that they be not abused in the same kinde.</p>
+            <p>
+               <hi>London,</hi> Printed in the year, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:153519:2"/>
+            <head>A REMONSTRANCE OF Divers of the County of <hi>Hertford.</hi>
+            </head>
+            <p>HOnest <hi>Countrey men,</hi> we are not insensible but, as good Governors, and just and upright men in Office <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Place of Trust, are not only the Foundation, but the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ops and pillars of a Common-wealth: so the contrarie, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> corrupt men are put in Office or Trust, Men self-seekers, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>vetous, contentious, dishonest, or uncivil in their charge, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r carriage towards the People: upon just complaint to the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uperiors or Superior Governor, such rotten props doubt<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ss ought to be removed, and firmer set in their places, lest <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e whole Fabrick suffer by fault of one such corrupt Mem<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er, or as Members infected with the Leprosie, Plague sores, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd botches of a Commonwealth (if incurable) to be re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oved and separate from the rest of their brethren, lest their <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nfection spread, and others are damnifi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and destroyed <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hereby; as Mr. <hi>Hickman</hi> well deserved to be removed from <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat Trust was imposed on him by his Country; if you shall <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> consider these following observations.</p>
+            <p n="1">I. Considering the said <hi>Hickman</hi> by his long continuance
+<pb n="3" facs="tcp:153519:2"/>might well contract much corruption or iust, especia<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> being formerly so well skil'd in the <hi>Gentle-Craft,</hi> he mi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> have the wit to mend one, though not the honesty to do rig<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to many; considering how <hi>Kingly</hi> a Tutor he had always<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his elbow, to instruct him and his Son in Law <hi>Woodward</hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> abuse and terrifie many honest and peaceable inhabitants<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this County, prompting both him and his Emissaries to co<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and menace People at their own coors, <hi>for pretended Arre<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> upon Asessments; when those very people could shew disch<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ges in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull under Mr.</hi> Hickmans <hi>own hand, for the same Ta<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> which had been paid by them long before.</hi> What <hi>Ends</hi> Mas<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Hickman</hi> and his Son had in this, I know no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but sure it w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yond his <hi>Last,</hi> or to new load the People with more b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dens then they could well bear: by the length of this <hi>Fo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> you may well guess at the Monstrousness of the Body, a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that Mr. <hi>Hickman</hi> took a delight to vex and torment t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Coun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rey at his pleasure; as sometim<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s forcing the C<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctors of the several Town and places, to make many u<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> necessary and chargeable journeys to pay their Moneys in<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Treasury, under pretence his Son <hi>Woodward</hi> was at <hi>Lo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>don,</hi> and so the business could not be compleated: and m<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ny other Tricks, fetches, waies, and pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ses he hath had fro<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> time to time to abuse the Country, to their great trouble a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> discouragement; some of which we shall only him at, th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> all rational people may conceive that it was not envie or m<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lice that made the Counti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Petition against him; but mu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> reason and good cause for it; as you may be pleased to ta<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> notice by his corrupt pract<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ses; for when clipt monie ha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> been offered to him, on condition the par<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies would but tra<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with him for Commodities, their clipt monie would the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> pass with him for currant, otherwise not.</p>
+            <p n="2">II▪ The Countie having been allowed monies towards th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> payment of their <hi>Free Q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arter,</hi> and for the year<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 44, 45, 4<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="4" facs="tcp:153519:3"/>and 48. Hickman confesseth 5600. odd pounds, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hich they are to pay us: which the said Hickman <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>th had a long time in his hands, and converted to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s own use, and being now found out, the honest <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>entleman demands but 2. s. in the pound (besides <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e use of it all this while) for paying of it out; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hich the conscionable Treasurer doth well deserve <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his great care in keeping it so safe from being <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>stroyed, or eaten up with Rats and Mice, to pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nt which, he wisely laid out the same in Pitch, Tar, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oles and Iron, which the discreet Catterpiller, well <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ew his fellow Vermin would never venter upon. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut put the case 2. <hi>s.</hi> in the pound should be allowed <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>em by order, surely those that granted the same <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> them, were good House-keepers of their own <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oods, else they could never have been so liberal of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ther mens: And without doubt, those that vvill <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ame other folks for asking their ovvn, vvill beat <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e hungry from their doors that ask any thing of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eirs; the Common-vvealth having so great a com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>odity of such persons, that it vvould not be much <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>miss for them to trust them vvith 18. <hi>s.</hi> in the pound <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd keep the other 2. <hi>s.</hi> in the pound to preserve <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hemselves and families in times of necessity. We <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ill not say, That 2. <hi>s.</hi> is kept from us by robbery, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or can vve say, you keep it from us justly, vvhich
+<pb n="5" facs="tcp:153519:3"/>argues, you keep it falsly, which we cannot but deem a great infamy.</p>
+            <p n="3">III. He sends for divers people to bring in monies which hath been destrained for, and paid which fines were 40. <hi>s.</hi> a piece for distresses, 8. or 9. years a<g ref="char:EOLhyphen"/>go, with many other abuses, as was made appear be<g ref="char:EOLhyphen"/>fore the Honourable Commissioners.</p>
+            <p>The County groaning under these unsofferable a<g ref="char:EOLhyphen"/>buses, and the heavy burden of a perpetual Treasurer and having none that would or durst tell him, and his Emissaries of their faults, save only one, who neither feared them, nor ever favored their falshood, namely, that ever to be esteemed Gentleman by his Country, Captain AMBROSE ROCK, who scor<g ref="char:EOLhyphen"/>ned either for favor or affection, to fawn, flatter, or sooth them up in their evil and pernicious practises; but with a loathing to their ways; and a true and hearty zeal and love to his Countreys welfare, he esteeming equity &amp; honesty before self-ends, or any private interests, hath often openly rebuked them, and told them of their faults, as he did at Hatfield June 24. 1654. which gave such content to the whole County, that unanimo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sly they made choice of the said Captain ROCK (who never thought his labor ill bestowed, nor his money or blood ill spent for the good of his Country) to present a Petition
+<pb n="6" facs="tcp:153519:4"/>in the behalf of all the aggrieved to the Honorable Commissioners appointed by Ordinance of Par<g ref="char:EOLhyphen"/>liament for that co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nty: which Petition he soon pro<g ref="char:EOLhyphen"/>vided, and was offered the hands of most of the county for turning him out of Office: the said Pe<g ref="char:EOLhyphen"/>tition, with hands to it, being prepared for redress of our Agrievances, was with an undaunted <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity delivered to the commissioners by the said captain Rock, who neither feared KING, nor Keysar, Trea<g ref="char:EOLhyphen"/>surer or Agent so long as he knew himself as faithful to the State as to his c untry; which Petition was received by the commissioners with great civility: who desiring the said ROCK, &amp; others the ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ieved people, that presented it, to wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hdraw, whilest their Honors had debated the business, which being soon done: they honorab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y satisfied the counties desires, calling in the said ROCK, and declared to him, <hi>That the Desires of the Country were fulfilled,</hi> and withall wished him to nominate a new Treasurer, which soon he did, pitching upon one Mr. Thomas Cow<g ref="char:EOLhyphen"/>ley of St. Albons, and told those Gentlemen, that the said Cowley had formerly been Treasurer for the coun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, &amp; had always given <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem great content and satisfaction by his honest and civil carr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>age▪ and rendred the county a just acco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt of his trust, which from the said Hickman could never yet be obtained,
+<pb n="7" facs="tcp:153519:4"/>since which the county had groaned under the hea<g ref="char:EOLhyphen"/>vy burden of a perpetual Treasurer, and would with all alacity and cheerfulness of mind rather pay their Assessments to him they loved then to him who was generally hated by all good men: upon these considerations, Mr. Couley was chosen Treasurer, and Hickman turned out: no man but being glad so good a man was chosen Treasurer, and so evil a man turned out of office: only Hickmans son in Law (John Woodward) who had been his Clerk, and as very a <hi>K.</hi> as his Father, understanding of the business, applyed himself to the commissioners, and made to them a learned Speech in behalf of his Fa<g ref="char:EOLhyphen"/>ther and himself (as being very loth to leave their old trade) desiring them, <hi>That they might not be put out as the snuff of a Candle:</hi> which learned Speech being presently caught up in a whirlwind, was carried to St. Albons: which the very Boys no sooner heard, but they replyed, they loved them so well, that though they went stinking out, rather then they should want light they would light them out of their places with Bonefi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and ring them out too with the Bells of St. Albons: and indeed they were boys of their Words, most willingly performing the same for the manifold curtesies the said Hickman and his son Woodward had done their friends and
+<pb n="8" facs="tcp:153519:5"/>country-men, and it is thought the boys will go neer to choose the Fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her Burgess of St. Albons, now he is out of his old Offi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and the Son may go again to School, to learn to be an honest and just account<g ref="char:EOLhyphen"/>ant, and have the deducting as well as additional part, and so return to help his father in the multi<g ref="char:EOLhyphen"/>plicity of his Accounts.</p>
+            <p>
+               <hi>And so we conclude, d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>siring th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y may finde the right way to their deserved place: and all other Countries may be carefull in expelling such pesti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erous Caterpillers, and choose just and honest men in their places, that may perform their duty to the Common-wealth, according to Right, and no otherwise, without abusing any inferi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r member of the same by unjust claims or exactio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s▪ as this man and his abettors did: he not only by his base actions wrong<g ref="char:EOLhyphen"/>ing others, but himself also: by pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting his body out of frame, dul<g ref="char:EOLhyphen"/>ling his wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, que<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ching his memory, making his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riends his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oes, neighbors fors<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke him, the wise shun him, the godly to abhor him, most men to disdain him, the boys to mock him, none to regard him, God to forsake him, and the Devil to take him.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153519:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
